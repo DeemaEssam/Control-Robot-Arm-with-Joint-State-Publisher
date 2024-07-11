@@ -43,6 +43,6 @@ rosrun robot_arm_pkg joint_states_to_gazebo.py
 
 
 <img src="https://github.com/DeemaEssam/DeemaEssam.github.io/assets/106381596/2e951ca3-f108-4a55-9209-8d13cb296475" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
-<img src="https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/b31f8de7-d330-401f-82cb-84df4acfb888" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="500" height="300" />
 
+4. Output
 https://github.com/GDHadeel/Robot-Arm-Control-with-Joint-State-Publisher-and-MoveIt/assets/106381596/230e03df-911f-4a69-84cf-18e3d8dc144d
